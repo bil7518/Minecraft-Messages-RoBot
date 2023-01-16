@@ -1,5 +1,7 @@
 # Minecraft-Messages-RoBot
+
 ## MC服务器聊天机器人
+## 下载链接:https://woodish.lanzouo.com/iMCN40l59qhe
  这是很久很久之前的事了
  有一个广告小子来gm0.top发sm广告，所以布汁决定也去它的烂服刷屏
  但是很无奈，WWE的Chat Robot小小杨这个脑瘫真的玩不懂（歪果仁的程序就是麻烦）
@@ -19,4 +21,5 @@
 软件的原理就是自动帮你复制粘贴,且生存一段随机，所以你要把内容复制到剪切板中
 
 gm0.top，这个服务器挺好玩的.非正版登录的话要是中文名
-bbs链接:https://www.minebbs.com/resources/mc-robot-3-2.5393/
+####bbs链接:https://www.minebbs.com/resources/mc-robot-3-2.5393/
+
