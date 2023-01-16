@@ -21,5 +21,5 @@
 软件的原理就是自动帮你复制粘贴,且生存一段随机，所以你要把内容复制到剪切板中
 
 gm0.top，这个服务器挺好玩的.非正版登录的话要是中文名
-####bbs链接:https://www.minebbs.com/resources/mc-robot-3-2.5393/
+#### bbs链接:https://www.minebbs.com/resources/mc-robot-3-2.5393/
 
